@@ -1,0 +1,7 @@
+INDEX VERSION 1.126+F:\praktek\eclipse\spada_unpri\si_6_malam\.metadata\.plugins\org.eclipse.jdt.core
+4251866117.index
+3875709537.index
+3003170322.index
+1272748090.index
+1438993485.index
+1640599045.index
